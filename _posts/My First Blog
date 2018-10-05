@@ -1,0 +1,12 @@
+---
+layout:     post   				   
+title:      My First Post
+subtitle:   Hello World
+date:       2018-10-05 
+author:     BY James Cao
+header-img: img/post-bg-2015.jpg 	
+catalog: true 						# 是否归档
+tags:								#标签
+    - Blog
+---
+
