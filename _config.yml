@@ -1,17 +1,17 @@
 # Site settings
-title: Welcome to My Project Blog
+title: Welcome to My Blog
 SEOTitle: 曹经纬的博客 | BY James
 header-img: img/post-bg-desk.jpg
 email: jingweicaoooo@gmail.com
-description: "这是我的装逼博客"
-keyword: "BY, BY Blog, 曹经纬的博客"
+description: "装逼博客"
+keyword: "James Cao, Blog, 曹经纬的博客"
 url: "http://caojingw.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/caojingw/caojingw.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "多多关照"
+sidebar-about-description: "Contact me if you have any questions"
 sidebar-avatar: /img/Myphoto1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
