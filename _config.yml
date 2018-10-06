@@ -7,7 +7,7 @@ description: "这是我的装逼博客"
 keyword: "BY, BY Blog, 曹经纬的博客"
 url: "http://caojingw.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/caojingw/caojingw.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,13 +18,9 @@ sidebar-avatar: /img/Myphoto1.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
-
+linkedin_username:     james-cao-27489669
+github_username:    caojingw
+facebook_username:  jingwei.cao.31
 
 
 
@@ -98,19 +94,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+   
 ]
 
 theme: jekyll-theme-cayman
