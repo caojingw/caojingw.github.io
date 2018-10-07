@@ -12,7 +12,7 @@ tags:
 
 ## Motivation
 > It is always a dream to have a personal blog ever since I was young. I was introduced while I was browsing online for some learning subjects. Hence I am going to build my ongoing projects and
-you are able to find any projects I did in this blog as of today. 
+you are able to find any projects I did in this blog as of today. It may be not well-built but it will be improving over time!
 
 > Special thanks to this blogger and his post saves me unmeansureable amount of time on building this. His Github Page is http://qiubaiying.top/.
 
