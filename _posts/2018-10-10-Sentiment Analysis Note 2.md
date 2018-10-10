@@ -1,6 +1,6 @@
 ---
 layout:     post   				   
-title:      Sentiment Analysis Study Note
+title:      Sentiment Analysis Note 2
 subtitle:   
 date:       2018-10-10
 author:     James Cao
