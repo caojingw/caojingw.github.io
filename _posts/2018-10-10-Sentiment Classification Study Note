@@ -26,7 +26,7 @@ I am going to cover and talk about step 3 and 4.
 We are given a list of text data (for example: Rotten Tomato Moview Review Comments with each polarity/sentiment score on a scale of five) 
 and need to build a classifer to classfy the new review comments.
 
-The technique will be <strong>'Bag Of Words'<\strong>.
+The technique will be <strong>'Bag Of Words'</strong>.
 
 
 TBD
