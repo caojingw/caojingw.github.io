@@ -32,4 +32,6 @@ TBD
 
 Reference: 
 https://rpubs.com/williamsurles/316682; 
-https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958
+https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958;
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+(this seems a reliable reading, read when having time)
