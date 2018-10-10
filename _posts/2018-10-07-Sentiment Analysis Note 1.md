@@ -1,6 +1,6 @@
 ---
 layout:     post   				   
-title:      Literature Review 1
+title:      Sentiment Analysis Note 1
 subtitle:   
 date:       2018-10-07
 author:     James Cao
