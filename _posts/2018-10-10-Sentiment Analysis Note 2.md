@@ -30,7 +30,7 @@ One of the simplest techniques is 'Bag Of Words'(BOW).
 <strong>To Be Continued</strong>
 
 
-Reference: 
+Reference: <br/>
 https://rpubs.com/williamsurles/316682<br/>
 https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958<br/>
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/<br/>
