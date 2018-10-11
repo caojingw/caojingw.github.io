@@ -31,10 +31,10 @@ TBD
 
 
 Reference: 
-https://rpubs.com/williamsurles/316682\
-https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958\
-https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/\
+https://rpubs.com/williamsurles/316682<br/>
+https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958<br/>
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/<br/>
 (this seems a reliable reading, read when having time)
-https://datascienceplus.com/understanding-linear-svm-with-r/\
-http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html\
+https://datascienceplus.com/understanding-linear-svm-with-r/<br/>
+http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html<br/>
 (removesparse)
