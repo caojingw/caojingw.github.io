@@ -1,8 +1,8 @@
 ---
 layout:     post   				   
-title:      Sentiment Analysis Note 2
+title:      Rotten Moview Sentiment Text Classification
 subtitle:   
-date:       2018-10-10
+date:       2018-11-06
 author:     James Cao
 header-img: img/post-bg-2015.jpg 	
 catalog: true 					
