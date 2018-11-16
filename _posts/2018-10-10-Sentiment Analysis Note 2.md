@@ -38,6 +38,6 @@ https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/<br
 https://datascienceplus.com/understanding-linear-svm-with-r/<br/>
 http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html<br/>
 (removesparse)<br/>
-https://www.r-bloggers.com/analyzing-texts-with-text2vec-package/<br/>
+https://www.r-bloggers.com/analyzing-texts-with-text2vec-package<br/>
 https://www.r-bloggers.com/natural-language-processing-on-40-languages-with-the-ripple-down-rules-based-part-of-speech-tagger/<br/>
 (POS Tagging)
